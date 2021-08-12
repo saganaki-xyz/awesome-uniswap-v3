@@ -129,6 +129,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
  - [Active Liquidity Management: Trader's Perspective](https://altonomy.medium.com/uniswap-v3-9b388e2fe272) - A quantitative analysis and simple simulation on Uniswap v3, with final suggestions on how to put together an optimal market making strategy on Uniswap v3
  - [A ‘real-world’ framework for backtesting Uniswap V3 strategies](https://jnp777.medium.com/a-real-world-framework-for-backtesting-uniswap-v3-strategies-88825abdcd17) - Framework for backtesting LP strategies
  - [Uniswap V3: A Quant Framework to model yield farming returns](https://medium.com/@DeFiScientist/uniswap-v3-a-quant-framework-to-model-yield-farming-returns-941a1600425e) - Research by DeFI Scientist on Uniswap v3 LP returns
+ - [Quantifying Just in Time Liquidity in Uniswap v3](https://jnp777.medium.com/quantifyng-just-in-time-liquidity-in-uniswap-v3-23ac1db729c5) - Article describing the impact of Flashbots on Liquidity Provision Returns.
 
 
 #### Impermanent Loss
